@@ -22,10 +22,4 @@ def minOperations(n):
             operations += divisor
         divisor += 1
     
-    return operations
-
-# Example
-n = 9
-result = minOperations(n)
-print(f"Number of operations for {n}: {result}")
-
+    return operations:
